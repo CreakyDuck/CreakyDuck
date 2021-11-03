@@ -1,10 +1,4 @@
-### 𝐇𝐞𝐲 �There,
-𝐈 𝐚𝐦 𝑪𝒓𝒆𝒂𝒌𝒚𝑫𝒖𝒄𝒌.👋
-
-<!--
-**CreakyDuck/CreakyDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey There👋, I am CreakyDuck.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
