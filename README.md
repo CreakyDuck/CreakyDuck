@@ -1,5 +1,12 @@
-### Hey There,
-### I am Josh aka CreakyDuck.👋 
+### Hey ;)👋 
+### I am Josh aka CreakyDuck.
+##
+**General Information:**
+- 👨‍🔧I am currently working on **Duck Pack 128x.**
+- 🪴I am currently learning more about **Minecraft Hacking Clients.**
+- 🥅Goals: Learn **NodeJS.**
+
+
 ##
 **Occupations:**
 - 🕵CEO at **RN Elements.**
@@ -11,12 +18,6 @@
 - 👨‍🔬Java Developer at **RX Core.**
 - 🦸‍♂️HR Executive at **Agento.**
 
-##
-
-**General Information:**
-- 👨‍🔧I am currently working on **Duck Pack 128x.**
-- 🪴I am currently learning more about **Minecraft Hacking Clients.**
-- 🥅Goals: Learn **NodeJS.**
 
 ##
 
