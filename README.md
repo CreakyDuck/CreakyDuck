@@ -7,14 +7,14 @@
 - 🕴Owner at **Ducks-United.**
 - 👨🏼‍💻Developer at **ERPT.**
 - 🚨Security Officer at **LP Core.**
-- 👷Vice President Of Operations at **Alpex**
+- 👷Vice President Of Operations at **Alpex.**
 - 👨‍🔬Java Developer at **RX Core.**
 - 🦸‍♂️HR Executive at **Agento.**
 
 ##
 
 **General Information:**
-- I am currently working on **Ducks-United AntiCheat.**
+- I am currently working on **Duck Pack 128x.**
 - I am currently learning more about **Minecraft Hacking Clients.**
 - Goals: Learn **NodeJS.**
 
