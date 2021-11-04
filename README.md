@@ -14,9 +14,9 @@
 ##
 
 **General Information:**
-- I am currently working on **Duck Pack 128x.**
-- I am currently learning more about **Minecraft Hacking Clients.**
-- Goals: Learn **NodeJS.**
+- 👨‍🔧I am currently working on **Duck Pack 128x.**
+- 🪴I am currently learning more about **Minecraft Hacking Clients.**
+- 🥅Goals: Learn **NodeJS.**
 
 ##
 
