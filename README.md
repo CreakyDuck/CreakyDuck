@@ -11,12 +11,12 @@
 **Occupations:**
 - 🕵CEO at **RN Elements.**
 - 🤵‍♂️Owner at **Skylex Technologies.**
-- 🕴Owner at **Ducks-United.**
+- 🕴Owner at **Duck Studios™.**
 - 👨🏼‍💻Developer at **ERPT.**
 - 🚨Security Officer at **LP Core.**
 - 👷Vice President Of Operations at **Alpex.**
-- 👨‍🔬Java Developer at **RX Core.**
-- 🦸‍♂️HR Executive at **Agento.**
+- 👨‍🔬Head Java Developer at **RX Core.**
+- 🦸‍♂️CMO at **Agento.**
 
 
 ##
