@@ -23,7 +23,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://creakyduck.wixsite.com/home" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg"/> 
+<a href="http://creaky.ducksunited.studio" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg"/> 
  <a href="https://ibb.co/LnYqJbp" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg"/>
 <a href="https://www.youtube.com/channel/UCqxnYBpjpJY7Ebaa44ZpdEw" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg"/> 
 <a href="https://www.twitter.com/creakyduck" target="_blank"/><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"/> 
