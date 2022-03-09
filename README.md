@@ -11,7 +11,7 @@
 **Occupations:**
 - 🕵CEO at **RN Elements.**
 - 🤵‍♂️Owner at **Skylex Technologies.**
-- 🕴Owner at **Duck Studios™.**
+- 🕴Owner at **Duck Studios LLC.**
 - 👨🏼‍💻Developer at **ERPT.**
 - 🚨Security Officer at **LP Core.**
 - 👷Vice President Of Operations at **Alpex.**
